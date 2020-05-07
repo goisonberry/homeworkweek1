@@ -62,16 +62,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /*-------Content Section-------*/
 .content {
     width: 75%;
@@ -97,6 +87,16 @@ p {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /*-------Benefits Section------*/
 .benefits {
     margin-right: 20px;
@@ -110,7 +110,7 @@ p {
 }
 
 .benefits-section {
-    margin-bottom: 32px;
+    margin-bottom: 52px;
     color: #ffffff
 }
 
